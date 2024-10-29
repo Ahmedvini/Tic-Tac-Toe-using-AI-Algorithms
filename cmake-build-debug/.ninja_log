@@ -1,0 +1,7 @@
+# ninja log v6
+3	185	1730233255717474996	CMakeFiles/TicTacToe.dir/computer_move.c.o	68312ad6cfc73a4a
+163	223	1730233493806483485	TicTacToe	a6c5b0d0483937f4
+1	17	1730234029309748456	build.ninja	2d0c33384f48c6b9
+2	174	1730233255716474975	CMakeFiles/TicTacToe.dir/board.c.o	59dce4b7b6d5f63a
+2	163	1730233493645480099	CMakeFiles/TicTacToe.dir/gui.c.o	fbcc5e118a9c2696
+2	173	1730233255716474975	CMakeFiles/TicTacToe.dir/main.c.o	c33fceccb61e8eed
